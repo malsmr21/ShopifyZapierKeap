@@ -38,16 +38,19 @@ This project demonstrates an **automation flow between Shopify, Zapier, and Keap
 ## 📸 Screenshots & Walkthrough
 
 ### Zapier Setup
-![Zapier Setup](https://i.imgur.com/e6OW4cQ.png)
+![Zapier Setup](https://i.imgur.com/wdl2uPD.png)
 
 ### Shopify → Zapier Trigger
-![Shopify Trigger](https://i.imgur.com/NgiOPW9.png)
+![Shopify Trigger](https://i.imgur.com/LVpNUOF.png)
 
-### Keap Customer Record Update
-![Keap Record](https://i.imgur.com/ZQoOXqZ.png)
+### Keap → Zapier Action
+![Keap Record](https://i.imgur.com/NMH9BjI.png)
 
-### Spiffy Checkout Example
-![Spiffy Checkout](https://i.imgur.com/53N5YmY.png)
+### keap Automation Setup (Edit view)
+![Spiffy Checkout](https://i.imgur.com/OOdJWYe.png)
+
+### keap Automation Setup (Reporting view)
+![Spiffy Checkout](https://i.imgur.com/WiRddtj.png)
 
 ---
 
