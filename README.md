@@ -46,11 +46,11 @@ This project demonstrates an **automation flow between Shopify, Zapier, and Keap
 ### Keap → Zapier Action
 ![Keap Record](https://i.imgur.com/NMH9BjI.png)
 
-### keap Automation Setup (Edit view)
-![Spiffy Checkout](https://i.imgur.com/OOdJWYe.png)
+### Keap Automation Setup (Edit view)
+![Keap Automation Edit](https://i.imgur.com/OOdJWYe.png)
 
-### keap Automation Setup (Reporting view)
-![Spiffy Checkout](https://i.imgur.com/WiRddtj.png)
+### Keap Automation Setup (Reporting view)
+![Keap Automation Reporting](https://i.imgur.com/WiRddtj.png)
 
 ---
 
@@ -60,6 +60,19 @@ This project demonstrates an **automation flow between Shopify, Zapier, and Keap
 - Eliminates manual data entry.  
 - Ensures customers are enrolled in the right campaigns immediately.  
 - Scalable for subscriptions, one-time products, and upsells.  
+
+---
+
+## 🚀 How to Reproduce
+
+1. Set up a **Shopify store** with at least one product.  
+2. Create a **Zapier account** and connect Shopify + Keap.  
+3. Build a Zap:  
+   - **Trigger** → "New Order in Shopify"  
+   - **Action** → "Create/Update Contact in Keap"  
+4. Map Shopify order fields (email, name, product) to Keap fields.  
+5. Test the Zap and confirm data flows into Keap correctly.  
+6. Set up **Keap automation campaigns** (e.g., onboarding, follow-up, reminders).  
 
 ---
 
