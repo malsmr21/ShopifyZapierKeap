@@ -1,7 +1,5 @@
 # Integration and Automation Flow: Shopify → Zapier → Keap
 
-### [🎥 YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 ---
 
 ## 📌 Project Description
