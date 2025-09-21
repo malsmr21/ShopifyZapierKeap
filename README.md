@@ -1,4 +1,4 @@
-<h1>🛠️ Integration and Automation Flow: Shopify → Zapier → Keap</h1>
+<h1># Integration and Automation Flow: Shopify → Zapier → Keap</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
